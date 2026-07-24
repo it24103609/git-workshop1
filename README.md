@@ -13,7 +13,10 @@ git rebase -i
  task 2 
 
  task 3 
+<<<<<<< HEAD
 
 
  task 4 
  
+=======
+>>>>>>> a9c7364bd79fa1f0d1d8f59318afba51be20db17
